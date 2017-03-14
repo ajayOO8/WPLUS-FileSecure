@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+<item android:id="@+id/forgetkey"
+    android:title="@string/forget_key"
+    android:orderInCategory="100"
+    android:showAsAction="never" />
+<item android:id="@+id/changequickkey"
+android:title="@string/change_default_key"
+android:orderInCategory="100"
+android:showAsAction="never" />
+<item android:id="@+id/bubblesetting"
+android:title="@string/Bubble"
+android:orderInCategory="100"
+android:showAsAction="never" />
+<item android:id="@+id/help"
+android:title="@string/help"
+android:orderInCategory="100"
+android:showAsAction="never" />
+<!--<item android:id="@+id/rate"
+android:title="@string/rate"
+android:orderInCategory="100"
+android:showAsAction="never" />-->
+<item android:id="@+id/aboutus"
+android:title="@string/about_us"
+android:orderInCategory="100"
+android:showAsAction="never" />
+
+    </menu>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">WPLUS Filesecure</string>
+    <string name="title_activity_welcome">WPLUS Filesecure</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="setupquickkey">Setup Quick Password</string>
+    <string name="slide_1_title">Password Support</string>
+    <string name="slide_1_desc">The easiest way to Encrypt files and set password!</string>
+    <string name="slide_2_title">Quick Encrypt</string>
+    <string name="slide_2_desc">Encrypt files on the Go with Quick password!</string>
+    <string name="slide_3_title">Files</string>
+    <string name="slide_3_desc">Open files from any where and decrypt them without opening app!</string>
+    <string name="slide_4_title">Encrypt &amp; share</string>
+    <string name="slide_4_desc">Instant Encryption and share it on WhatsApp and Gmail etc!</string>
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_parent">ParentActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Quick key</string>
+    <string name="prompt_password2">Confirm Quick key</string>
+    <string name="action_sign_in">Proceed</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_password">Quick password must be of 16 digits</string>
+    <string name="error_invalid_password2">Password is not same</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions." </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_file_chooser">FileChooser</string>
+    <string name="title_activity_firstpage">Firstpage</string>
+    <string name="FAQs">FAQs</string>
+    <string name="change_default_key">Change quick password</string>
+    <string name="help">Help</string>
+    <string name="about_us">About us</string>
+    <string name="aboutustext">WPLUS filesecure Encrypts and Decrypts files and make them sharable via Email(Gmail, Hotmail) and IMs(WhatsApp).
+                                \n\nWPLUS filesecure is based on AES algorithm.
+                               \n\nWe would appreciate any feedback from you regarding suggestions for improvement, reports of technical problems.
+        \nContact us for Hugs or Bugs:\n<b>ajaypratapmailbox@gmail.com</b>,\n<b>manmeet1027@gmail.com</b></string>
+    <string name="rate">Rate Us</string>
+    <string name="forget_key">Forget file password?</string>
+    <string name="Bubble">Bubble</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_getkey">Getkey</string>
+
+    <string name="banner_home_footer">ca-app-pub-4635831255863413/4149352688</string>
+
+
+</resources>
