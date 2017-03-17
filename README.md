@@ -3,13 +3,13 @@ This is an android app, which provides user to encrypt/decrypt documents, files 
 
 ### Features
 
-**File Encryptor:**WPLUS Securely encrypt your private files and documents.
+**File Encryptor:** WPLUS Securely encrypt your private files and documents.
 
 ** Algorithm:** WPLUS currently uses strong encryption algorithm AES(128 bits). Future updates will include AES(256 bits),RC6(256 bits) Blowfish(448 bits) and many more strong file encryption algorithms.
 
 **Password:** Every Encrypted file can only be opened by a secured 128 bits password. Future updates will include 32 bits,64 bits, and no password features.
 
-**Encrypt and share:**WPLUS gives liberty to user to encrypt file in one go and share file instantly on Email services like Gmail, YahooMail, Hotmail and on Instant Messengers like WhatsApp and Hike.
+**Encrypt and share:** WPLUS gives liberty to user to encrypt file in one go and share file instantly on Email services like Gmail, YahooMail, Hotmail and on Instant Messengers like WhatsApp and Hike.
 
 ### Upcoming features
 
